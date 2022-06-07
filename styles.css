@@ -76,6 +76,7 @@ ul {
     border-color: #1F2937;
     color: #f9faf8;
     font-weight: bold;
+    border: none;
 }
 
 
@@ -169,6 +170,7 @@ img {
 
 .call-to-action button {
     border-color: #f9faf8;
+    border: solid;
 }
 
 .footer {
