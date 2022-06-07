@@ -5,3 +5,4 @@ Image Attributions:
 img1.jpeg, img3.jpeg: Photo by Jessica Lewis Creative from Pexels
 img2.jpeg, img5.jpeg: Photo by Pixabay from Pexels
 img4.jpeg: Photo by Negative Space from Pexels
+img6.jpeg: Photo by Mateus Bassan on Unsplash
