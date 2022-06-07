@@ -81,19 +81,3 @@ img {
     color: #f9faf8;
     font-weight: bold;
 }
-
-.information {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    margin-top: 40px;
-    gap: 40px; 
-}
-
-.info-one {
-    text-align: center;
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1F2937;
-}
