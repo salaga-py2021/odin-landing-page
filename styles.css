@@ -22,6 +22,7 @@ body {
     color: #f9faf8;
 }
 
+.call-secondary-text,
 .hero-secondary-text,
 .header-link-text {
     font-size: 18px;
@@ -65,6 +66,7 @@ ul {
     height: auto;
 }
 
+.call-to-action button,
 .hero-button {
     padding: 8px 25px;
     background-color: #3882f6;
@@ -140,4 +142,31 @@ img {
     font-size: 18px;
     font-weight: bold;
     color: black;
+}
+
+.call-to-action {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inside-call {
+    display: flex;
+    background-color: #3882f6;
+    justify-content: space-around;
+    align-items: center;
+    height: 65%;
+    width: 65%;
+    border-radius: 8px;
+}
+
+.call-main-text {
+    font-size: 18px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.call-to-action button {
+    border-color: #f9faf8;
 }
