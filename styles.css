@@ -41,7 +41,7 @@ ul {
     align-items: center;
     justify-content: space-around;
     background-color: #1F2937;
-    height: 300px;
+    height: 400px;
     padding: 30px 75px;
     margin-top: -41px;
 }
@@ -80,9 +80,10 @@ ul {
 .information {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    gap: 40px; 
+    justify-content: flex-start;
+    align-items: center;
+    gap: 60px; 
+    height: 350px;
 }
 
 .info-one {
@@ -114,4 +115,29 @@ ul {
 img {
     height: auto;
     width: 200px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 19%;
+    height: 400px;
+    gap: 20px;
+}
+
+.quote-text {
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+}
+
+.quote-by {
+    align-self: flex-end;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
 }
